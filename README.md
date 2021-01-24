@@ -5,4 +5,4 @@ Website coded in HTML &amp; CSS for entertainment and advice on several topics f
 Began project in the summer, will begin updating and keeping the website current with new content.
 
 > fyi: this repo used to be on my other Github account and I switched it so there are no commits. Original repo has 71 commits.
-> Original [teengirlsblogs repo] (https://github.com/natalieramirez/teen-girls-blogs-Website) 
+> Original repo: https://github.com/natalieramirez/teen-girls-blogs-Website
